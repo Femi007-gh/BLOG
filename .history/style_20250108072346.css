@@ -1,0 +1,28 @@
+nav {
+      background-color: #6a1b9a;
+      height: 150px;
+      flex-direction: column;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    ul {
+      list-style: none;
+      margin-top: 1rem;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    li {
+      margin: 0 1rem;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+      padding: 1rem;
+      display: block;
+    }

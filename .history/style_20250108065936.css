@@ -1,0 +1,165 @@
+header {
+  background-color: 6B1C9B;
+  color: white;
+  height: 100px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.desc {
+  max-width: 1200px;
+  margin: o auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header h1 {
+  margin-left: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  display:  flex;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#hero {
+  background-image: url("biz.jpg");
+  height: 300px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.hero-content {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  height: 200px;
+  text-align: center;
+}
+
+body{
+  height: 2000px;
+}
+
+.hero-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #EB6E50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.service{
+  font-size: 30px;
+  margin-top: 25px;
+  font-weight: bold;
+  font-family: Arial;
+  color: #3883BE;
+  margin-left: 600px;
+}
+
+.offer{
+  font-family: Arial;
+  font-size: 30px;
+  margin-left: 600px;
+}
+
+.link{
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 600px;
+}
+
+li{
+  color: rgb(194, 189, 189);
+  margin-left: 25px;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+  font-family: Arial;
+}
+
+.messages{
+  margin-top: 25px;
+}
+
+.about{
+  background-color: #F1F1F1;
+  padding-bottom: 300px;
+  margin-top: 40px;
+}
+
+.us{
+  font-size: 30px;
+  font-family: Arial;
+  margin-top: -270px;
+  color: #3C8D54;
+  font-weight: bold;
+  margin-left: 600px;
+}
+
+.text{
+  font-size: 30px;
+  font-family: Arial;
+  width: 880px;
+  margin-left: 600px;
+}
+
+.contact{
+  font-size: 30px;
+  margin-top: 130px;
+  font-family: Arial;
+  font-weight: bold;
+  color: #B1434B;
+  margin-left: 600px;
+}
+
+.phone{
+  font-size: 25px;
+  font-family: Arial;
+  margin-top: 10px;
+  margin-left: 600px;
+}
+
+.email{
+  font-size: 25px;
+  font-family: Arial;
+  margin-top: 10px;
+  margin-left: 600px;
+}
+
+.last{
+  background-color: #005f73;
+  margin-top: 50px;
+  padding-bottom: 22px;
+  padding-top: 22px;
+}
+
+.last-thing{
+  font-size: 30px;
+  color: white;
+  margin-left: 550px;
+}
+
+.the-body{
+  margin-left: 450px;
+}
+

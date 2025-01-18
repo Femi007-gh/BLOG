@@ -1,0 +1,41 @@
+Here’s the navigation bar code using <ul> and <li> tags:
+
+<nav>
+  <style>
+    nav {
+      background-color: #6a1b9a;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    li {
+      margin: 0 1rem;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+      padding: 1rem;
+      display: block;
+    }
+
+    a:hover {
+      background-color: #4a148c;
+      border-radius: 4px;
+    }
+  </style>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+This version uses <ul> and <li> to structure the navigation items while maintaining the same styling. Let me know if you need further customization!

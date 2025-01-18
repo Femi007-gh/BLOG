@@ -1,0 +1,29 @@
+
+    nav {
+      background-color: #6a1b9a;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    li {
+      margin: 0 1rem;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+      padding: 1rem;
+      display: block;
+    }
+
+    a:hover {
+      background-color: #4a148c;
+      border-radius: 4px;
+    }

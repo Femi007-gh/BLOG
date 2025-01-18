@@ -1,0 +1,37 @@
+nav {
+      background-color: 6B1C9B;
+      height: 150px;
+      flex-direction: column;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size
+    }
+
+    ul {
+      list-style: none;
+      margin-top: 1rem;
+      padding: -0;
+      display: flex;
+      justify-content: center;
+    }
+
+    li {
+      margin: 0 1rem;
+    }
+
+    a {
+      color: white;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+      padding: 1rem;
+      display: block;
+    }
+
+    p {
+      margin-top: -130px;
+      font-size: 1.8rem;
+      font-family: Arial;
+      text-align: center;
+      color: white;
+    }
